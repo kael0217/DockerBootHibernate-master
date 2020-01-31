@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: Test
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: payal
+Built-By: kael.zhang
 Implementation-Vendor-Id: com.infotech.book.ticket.app
-Build-Jdk: 1.8.0_191
+Build-Jdk: 1.8.0_221
 Implementation-URL: http://projects.spring.io/spring-boot/SpringBootSi
  mpleCache/
 Created-By: Maven Integration for Eclipse
